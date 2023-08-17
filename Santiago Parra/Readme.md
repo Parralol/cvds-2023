@@ -2,7 +2,7 @@
 
 ### Vive en **Suba**
 
-Edad 21
+Edad **21**
 
 Hobbies: 
 
