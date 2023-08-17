@@ -33,4 +33,4 @@ fragmentos de codigo:
 
 respuestas https://learngitbranching.js.org/?locale=es_ES
 
-![](Screenshot 2023-08-17 184323.png)
+![](imagen.png)
