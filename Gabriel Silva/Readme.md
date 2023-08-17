@@ -14,4 +14,10 @@ plan de estudios:
   <https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol>\
 **codigo:**\
   When `x = 3`, that means `x + 2 = 5`
+
+**hobbies:**
+1. jugar fútbol
+2. leer libros en inglés
+3. ver peliculas
+4. aprender un nuevo idioma
   
