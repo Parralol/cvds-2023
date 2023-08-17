@@ -14,10 +14,10 @@ Cosas que no me gustan en orden:
 2. El coco
 
 Cursando:
- *CVDS
- *AUPN
- *FCFI
- *RECO
+ * CVDS
+ * AUPN
+ * FCFI
+ * RECO
 
 Link a mi pagina preferida
 
