@@ -35,4 +35,4 @@ respuestas https://learngitbranching.js.org/?locale=es_ES
 
 ![](imagen2.png)
 
-![]()
+![](Captura_de_pantalla_2023-08-22_213805.png)
